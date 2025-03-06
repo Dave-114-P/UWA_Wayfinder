@@ -1,2 +1,4 @@
 # UWA_Wayfinder
-Assess Uni's mapping system compatibility with Google Maps, streamline data, and recommend a cost-effective, functional wayfinding solution.
+Project 12: Enhance accessibility and improve the wayfinding experience for students, staff, and visitors (S1)
+
+As part of this project, students will assess whether Uni's existing mapping systems can integrate with Google Maps, identifying any technical limitations or compatibility issues. They will also explore opportunities to streamline the data by removing unnecessary elements, such as plant rooms and electrical boards, to enhance usability. Based on their findings, students will provide a recommendation to the University on the most suitable wayfinding system, considering factors such as cost, ease of integration, and overall functionality.
